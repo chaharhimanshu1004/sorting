@@ -22,8 +22,7 @@ public static void bubbleSort(int [] sort_arr, int len){
 
 	public static void main(String[] args) {
 		
-		
-		// TODO Auto-generated method stub
+	
 		
 		int [] array = {10,5,3,1,24,12};
         int len = array.length;
@@ -35,7 +34,6 @@ public static void bubbleSort(int [] sort_arr, int len){
 	}
 }
     
-
 	
 
 
